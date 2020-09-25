@@ -6,7 +6,7 @@ THIS README WILL WALK YOU THROUGH THE PROJECT. PLEASE READ IT ONCE TO GET AN IDE
 ## Large-scale CelebFaces Attributes (celebA) dataset
 * We will make use of the Large-scale CelebFaces Attributes (celebA) dataset to train our adversarial networks.
 * CelebFaces Attributes Dataset (CelebA) is a large-scale face attributes dataset with more than 200K celebrity images, each with 40 attribute annotations.
-* [Data can be downloaded from here](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
+* [Data can be downloaded from here](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/November/5be7eb6f_processed-celeba-small/processed-celeba-small.zip)
 
 ## Pre-processing and data loading
 * We don't need the annotations so we will have to crop images. Now, these are color images. Thus, depth is 3 (RGB — 3 color channels).
