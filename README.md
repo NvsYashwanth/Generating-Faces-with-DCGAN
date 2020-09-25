@@ -66,6 +66,8 @@ THIS README WILL WALK YOU THROUGH THE PROJECT. PLEASE READ IT ONCE TO GET AN IDE
 
 * Well, that is pretty good for a small network aye!
 
+***I HAVE INCLUDED THE .pkl FILE. SO YOU CAN GENERATE THE IMAGES TO SEE HOW IT PERFORMS.****
+
 ## Takeaways
 * A human face contains multiple features and some of the features are very complicated such as freckles and facial hair. To generate proper images we might need images with high resolution.
 * Provided with the high-resolution images for training we might need to build a better and deeper model for better accuracies.
