@@ -18,7 +18,7 @@ THIS README WILL WALK YOU THROUGH THE PROJECT. PLEASE READ IT ONCE TO GET AN IDE
 * Our batch size is 128, so instead of plotting all 128 images of a batch, we only plot 20 in this case.
 
 <p align='center'>
-  <img src="">
+  <img src="https://github.com/NvsYashwanth/Generating-Faces-with-DCGAN/blob/master/assets/train%20img.png">
 </p>
 
 ## Scaling images
@@ -53,7 +53,7 @@ THIS README WILL WALK YOU THROUGH THE PROJECT. PLEASE READ IT ONCE TO GET AN IDE
 * We will define a function for training our model. The parameters would be the Discriminator, Generator, epoch number.
 
 <p align='center'>
-  <img src="">
+  <img src="https://github.com/NvsYashwanth/Generating-Faces-with-DCGAN/blob/master/assets/losses.png">
 </p>
 
 ## Sample generation
@@ -61,7 +61,7 @@ THIS README WILL WALK YOU THROUGH THE PROJECT. PLEASE READ IT ONCE TO GET AN IDE
 * And finally, we have our generated faces below. 👀
 
 <p align='center'>
-  <img src="">
+  <img src="https://github.com/NvsYashwanth/Generating-Faces-with-DCGAN/blob/master/assets/gen%20images.png">
 </p>
 
 * Well, that is pretty good for a small network aye!
