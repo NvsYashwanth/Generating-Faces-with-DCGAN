@@ -46,7 +46,7 @@ THIS README WILL WALK YOU THROUGH THE PROJECT. PLEASE READ IT ONCE TO GET AN IDE
 * We used BCEwithLogitsLoss(), which combines a sigmoid activation function (we want the discriminator to output a value 0–1 indicating whether an image is real or fake) and binary cross-entropy loss.
 
 <p align='center'>
-  <img src="">
+  <img src="https://github.com/NvsYashwanth/Generating-Faces-with-DCGAN/blob/master/assets/bce.png">
 </p>
 
 ## Training phase & Loss curves
